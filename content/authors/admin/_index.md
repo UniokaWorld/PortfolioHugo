@@ -44,10 +44,10 @@ social:
   link: https://keybase.io/okada
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/okada_z
+  link: https://twitter.com/UniokaWorld
 - icon: github
   icon_pack: fab
-  link: https://github.com/okada-z
+  link: https://github.com/UniokaWorld
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
